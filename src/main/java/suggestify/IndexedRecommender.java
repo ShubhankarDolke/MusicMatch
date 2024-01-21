@@ -5,9 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
 import org.apache.commons.lang.*;
-/**
- * Created by HazemTheKing on 5/17/17.
- */
+
 public class IndexedRecommender {
     private HashMap<String, ArrayList<String>> lis = null;
 

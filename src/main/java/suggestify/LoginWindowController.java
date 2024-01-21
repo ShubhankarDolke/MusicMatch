@@ -17,11 +17,7 @@ import javafx.scene.web.WebView;
 import static suggestify.HomeViewController.loginStage;
 import static suggestify.HomeViewController.spotify;
 
-/**
- * FXML Controller class
- *
- * @author HeshamSaleh
- */
+
 public class LoginWindowController implements Initializable {
 
     @FXML

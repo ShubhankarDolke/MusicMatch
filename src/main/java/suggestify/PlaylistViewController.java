@@ -27,11 +27,7 @@ import javafx.scene.layout.VBox;
 import javafx.util.Duration;
 import static suggestify.HomeViewController.spotify;
 
-/**
- * FXML Controller class
- *
- * @author HeshamSaleh
- */
+
 public class PlaylistViewController implements Initializable {
 
     @FXML

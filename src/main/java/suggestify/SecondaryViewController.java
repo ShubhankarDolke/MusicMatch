@@ -35,11 +35,7 @@ import javafx.scene.text.FontWeight;
 import javafx.util.Duration;
 import org.controlsfx.control.textfield.TextFields;
 
-/**
- * FXML Controller class
- *
- * @author HeshamSaleh
- */
+
 public class SecondaryViewController implements Initializable {
 
     @FXML

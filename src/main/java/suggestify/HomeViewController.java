@@ -19,11 +19,7 @@ import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-/**
- * FXML Controller class
- *
- * @author HeshamSaleh
- */
+
 public class HomeViewController implements Initializable {
     
     public static Spotify spotify = new Spotify(true, "etchsaleh");
